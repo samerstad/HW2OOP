@@ -1,0 +1,497 @@
+"C:\Program Files\Java\jdk-11.0.13\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=50214:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\samer\IdeaProjects\OOPHomework2\out\production\OOPHomework2 Main
+Ginger arrives at the store on Day 1.
+ Consecutive days worked 1.
+Ginger is counting the money in the register.
+Insufficient money in the register. Going to the bank.
+Ginger is going to the bank.
+Ginger withdrew $1000.0 from the bank.
+Money in the register after bank withdrawal: $1000.0
+Ginger is performing the inventory.
+Total value of items in the store: $2753.912092703789
+All classes have at least one item.
+Ginger is placing an order.
+Ginger placed the order.
+Ginger is opening the store.
+Ginger sold a Harmonica to Customer 1 for $90.45790399636425.
+Ginger bought a very good condition used Harmonica from Customer 2 for $11.18399029465595 after adding 10% to the offered price.
+Ginger bought a excellent condition new MP3Player from Customer 3 for $23.19444525213334.
+Ginger sold a CDPlayer to Customer 4 for $26.751391243745594.
+Ginger bought a very good condition new Cables from Customer 5 for $48.03595316166289 after adding 10% to the offered price.
+Ginger sold a Mandolin to Customer 6 for $63.16211616797021 after a 10% discount.
+Ginger bought a good condition used Mandolin from Customer 7 for $38.33010814299502.
+Ginger sold a Mandolin to Customer 8 for $45.46348045886992 after a 10% discount.
+Ginger sold a Guitar to Customer 11 for $83.8398966698091 after a 10% discount.
+Ginger sold a Strings to Customer 13 for $13.781214464046018 after a 10% discount.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Ginger arrives at the store on Day 2.
+ Consecutive days worked 2.
+Ginger is counting the money in the register.
+Money in the register: $1346.3723038631044
+Ginger is performing the inventory.
+Total value of items in the store: $2638.2615200969744
+All classes have at least one item.
+Ginger is placing an order.
+Ginger placed the order.
+Ginger is opening the store.
+Ginger sold a Cables to Customer 2 for $46.57398646913182.
+Ginger sold a Shirt to Customer 3 for $85.6802175183288.
+Ginger bought a very good condition new Bandana from Customer 4 for $14.49375647611063.
+Ginger bought a poor condition used Vinyl from Customer 5 for $11.063834185872617 after adding 10% to the offered price.
+Ginger sold a Bandana to Customer 6 for $81.65728255167079.
+Ginger sold a Bandana to Customer 7 for $48.103223166175916 after a 10% discount.
+Ginger sold a PracticeAmps to Customer 8 for $49.08260711249521 after a 10% discount.
+Ginger bought a poor condition new Harmonica from Customer 9 for $45.99883422743292.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Ginger arrives at the store on Day 3.
+ Consecutive days worked 3.
+Ginger is counting the money in the register.
+Money in the register: $1668.268046267426
+Ginger is performing the inventory.
+Total value of items in the store: $2457.467021255872
+All classes have at least one item.
+Ginger is placing an order.
+Ginger placed the order.
+Ginger is opening the store.
+Ginger bought a fair condition used Hat from Customer 2 for $47.74273202759579.
+Ginger sold a Harmonica to Customer 3 for $14.686581133570757 after a 10% discount.
+Ginger sold a RecordPlayer to Customer 5 for $46.472037705181016.
+Ginger sold a Shirt to Customer 8 for $35.60514017723723 after a 10% discount.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Fred arrives at the store on Day 4.
+ Consecutive days worked 1.
+Fred is counting the money in the register.
+Insufficient money in the register. Going to the bank.
+Fred is going to the bank.
+Fred withdrew $1000.0 from the bank.
+Money in the register after bank withdrawal: $1000.0
+Fred is performing the inventory.
+Total value of items in the store: $2450.6007572605404
+All classes have at least one item.
+Fred is placing an order.
+Fred placed the order.
+Fred is opening the store.
+Fred bought a excellent condition used CD from Customer 1 for $33.210047461890476 after adding 10% to the offered price.
+Fred bought a very good condition new MP3Player from Customer 2 for $48.54475455920478 after adding 10% to the offered price.
+Fred sold a Shirt to Customer 3 for $51.20402647883153.
+Fred sold a Mandolin to Customer 4 for $27.262270325174462 after a 10% discount.
+Fred sold a Hat to Customer 6 for $50.42750729183481 after a 10% discount.
+Customer 7 wanted to buy a Shirt but none were in inventory, so they left.
+Fred sold a Hat to Customer 8 for $71.6862314200517 after a 10% discount.
+Fred sold a Flute to Customer 9 for $86.8777785884838.
+Fred is cleaning the store.
+Fred accidentally damaged a Bass while cleaning. Its condition was lowered to fair and its list price was reduced to $28.139294492597397.
+Fred is leaving the store for the day.
+Ginger arrives at the store on Day 5.
+ Consecutive days worked 1.
+Ginger is counting the money in the register.
+Money in the register: $1770.6197743179491
+Ginger is performing the inventory.
+Total value of items in the store: $2288.1558797793737
+No items found for class: Shirt
+Ginger is opening the store.
+Ginger sold a Bandana to Customer 1 for $3.7880484193285833.
+Ginger bought a poor condition used CD from Customer 2 for $33.38410779114692.
+Ginger sold a CD to Customer 3 for $41.293842775091775.
+Ginger bought a poor condition used Bass from Customer 4 for $32.04074759066938.
+Customer 8 wanted to buy a Shirt but none were in inventory, so they left.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Fred arrives at the store on Day 6.
+ Consecutive days worked 1.
+Fred is counting the money in the register.
+Money in the register: $1304.0551484418274
+Fred is performing the inventory.
+Total value of items in the store: $2373.923699348586
+No items found for class: Shirt
+Fred is opening the store.
+Fred bought a excellent condition new Guitar from Customer 1 for $45.71565382140569 after adding 10% to the offered price.
+Fred sold a Mandolin to Customer 3 for $76.66021628599005.
+Fred is cleaning the store.
+Fred is leaving the store for the day.
+Ginger arrives at the store on Day 7.
+ Consecutive days worked 1.
+Ginger is counting the money in the register.
+Money in the register: $1815.7016655123693
+Ginger is performing the inventory.
+Total value of items in the store: $2380.38285364697
+No items found for class: Mandolin
+Ginger is opening the store.
+Ginger bought a poor condition used RecordPlayer from Customer 1 for $39.303860169078135 after adding 10% to the offered price.
+Ginger sold a CDPlayer to Customer 2 for $59.180780150131696.
+Customer 3 wanted to buy a Shirt but none were in inventory, so they left.
+Ginger sold a Harmonica to Customer 4 for $95.60798051482048.
+Ginger bought a good condition new Vinyl from Customer 5 for $46.919703434315785.
+Ginger sold a Cables to Customer 8 for $65.70807112353957.
+Ginger sold a Guitar to Customer 10 for $50.30612664166943.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Ginger arrives at the store on Day 8.
+ Consecutive days worked 2.
+Ginger is counting the money in the register.
+Money in the register: $2086.5046239425305
+Ginger is performing the inventory.
+Total value of items in the store: $2274.880866029219
+No items found for class: Mandolin
+Ginger is opening the store.
+Ginger bought a fair condition used Vinyl from Customer 1 for $49.34688312635844.
+Ginger bought a excellent condition new Cables from Customer 2 for $3.7997124545285406.
+Ginger sold a MP3Player to Customer 7 for $85.2751835685096 after a 10% discount.
+Ginger sold a MP3Player to Customer 8 for $83.7258200935647 after a 10% discount.
+Ginger sold a Guitar to Customer 9 for $56.79908070641613.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Fred arrives at the store on Day 9.
+ Consecutive days worked 1.
+Fred is counting the money in the register.
+Money in the register: $1380.7153647278176
+Fred is performing the inventory.
+Total value of items in the store: $2136.5960835267165
+No items found for class: Mandolin
+Fred is opening the store.
+Fred bought a good condition used CDPlayer from Customer 1 for $37.001970679541635.
+Fred sold a CDPlayer to Customer 2 for $65.24940998076627.
+Fred sold a Strings to Customer 5 for $91.65028253478317.
+Fred sold a Flute to Customer 6 for $40.735372451661824 after a 10% discount.
+Fred is cleaning the store.
+Fred is leaving the store for the day.
+Ginger arrives at the store on Day 10.
+ Consecutive days worked 1.
+Ginger is counting the money in the register.
+Money in the register: $2331.082597606807
+Ginger is performing the inventory.
+Total value of items in the store: $2008.438807423959
+No items found for class: Mandolin
+Ginger is opening the store.
+Ginger sold a MP3Player to Customer 1 for $10.279257173340664.
+Ginger bought a good condition new RecordPlayer from Customer 2 for $21.49388526461058 after adding 10% to the offered price.
+Ginger sold a Vinyl to Customer 4 for $48.025307264231536 after a 10% discount.
+Ginger sold a Cables to Customer 5 for $8.552552239192618.
+Ginger sold a Harmonica to Customer 6 for $18.30107502761883 after a 10% discount.
+Ginger sold a PracticeAmps to Customer 7 for $61.46220943278067.
+Ginger sold a RecordPlayer to Customer 10 for $4.71834769532114 after a 10% discount.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Ginger arrives at the store on Day 11.
+ Consecutive days worked 2.
+Ginger is counting the money in the register.
+Money in the register: $2490.315205326756
+Ginger is performing the inventory.
+Total value of items in the store: $1888.2859910942107
+No items found for class: Mandolin
+Ginger is opening the store.
+Customer 1 wanted to buy a Shirt but none were in inventory, so they left.
+Ginger bought a good condition new Bass from Customer 2 for $22.35013355708457.
+Ginger bought a good condition new Harmonica from Customer 3 for $8.792571547483682 after adding 10% to the offered price.
+Ginger bought a poor condition used Cables from Customer 4 for $48.81902113414701.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Ginger arrives at the store on Day 12.
+ Consecutive days worked 3.
+Ginger is counting the money in the register.
+Money in the register: $2490.315205326756
+Ginger is performing the inventory.
+Total value of items in the store: $2046.6107941993712
+No items found for class: Mandolin
+Ginger is opening the store.
+Ginger sold a Bass to Customer 1 for $54.37103537001433 after a 10% discount.
+Ginger bought a fair condition used CDPlayer from Customer 2 for $2.3867564110577466.
+Ginger bought a poor condition used PaperScore from Customer 3 for $23.667986291568283.
+Ginger sold a RecordPlayer to Customer 6 for $25.408232360391235 after a 10% discount.
+Ginger sold a Bandana to Customer 8 for $28.98751295222126.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Fred arrives at the store on Day 13.
+ Consecutive days worked 1.
+Fred is counting the money in the register.
+Money in the register: $1582.876582189658
+Fred is performing the inventory.
+Total value of items in the store: $1981.0891358408403
+No items found for class: Mandolin
+Fred is opening the store.
+Fred bought a fair condition new RecordPlayer from Customer 2 for $5.873157651312525 after adding 10% to the offered price.
+Customer 3 wanted to buy a Shirt but none were in inventory, so they left.
+Customer 4 wanted to buy a Bandana but none were in inventory, so they left.
+Fred sold a MP3Player to Customer 5 for $46.38889050426668.
+Fred sold a RecordPlayer to Customer 6 for $64.31540754940058 after a 10% discount.
+Fred sold a Harmonica to Customer 8 for $91.99766845486585.
+Fred sold a PracticeAmps to Customer 9 for $85.06455098644179 after a 10% discount.
+Fred is cleaning the store.
+Fred is leaving the store for the day.
+Fred arrives at the store on Day 14.
+ Consecutive days worked 2.
+Fred is counting the money in the register.
+Money in the register: $1887.240872855282
+Fred is performing the inventory.
+Total value of items in the store: $1687.403313632148
+No items found for class: Mandolin
+Fred is opening the store.
+Fred bought a fair condition used Bass from Customer 1 for $15.068255604432771.
+Fred sold a PaperScore to Customer 6 for $43.12081007130805.
+Customer 7 wanted to buy a Shirt but none were in inventory, so they left.
+Fred sold a RecordPlayer to Customer 9 for $39.07979139020105.
+Fred is cleaning the store.
+Fred is leaving the store for the day.
+Ginger arrives at the store on Day 15.
+ Consecutive days worked 1.
+Ginger is counting the money in the register.
+Money in the register: $2607.9463490905387
+Ginger is performing the inventory.
+Total value of items in the store: $1635.3392233795046
+No items found for class: Mandolin
+Ginger is opening the store.
+Customer 3 wanted to buy a Shirt but none were in inventory, so they left.
+Customer 4 wanted to buy a Shirt but none were in inventory, so they left.
+Ginger bought a fair condition used Bandana from Customer 5 for $32.35128554892492 after adding 10% to the offered price.
+Ginger sold a Cables to Customer 6 for $78.604286991812 after a 10% discount.
+Ginger bought a good condition new RecordPlayer from Customer 7 for $25.92624743910491.
+Ginger sold a PaperScore to Customer 8 for $88.88819093756467.
+Ginger sold a CD to Customer 9 for $36.17517134457804 after a 10% discount.
+Ginger sold a Bandana to Customer 10 for $52.938467261877136 after a 10% discount.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Fred arrives at the store on Day 16.
+ Consecutive days worked 1.
+Fred is counting the money in the register.
+Money in the register: $1969.4414743167913
+Fred is performing the inventory.
+Total value of items in the store: $1470.7707958352723
+No items found for class: Mandolin
+Fred is opening the store.
+Fred bought a very good condition new Bass from Customer 1 for $21.252988825901955 after adding 10% to the offered price.
+Fred sold a RecordPlayer to Customer 3 for $9.610621611238676 after a 10% discount.
+Fred sold a Cables to Customer 4 for $7.599424909057081.
+Fred sold a Strings to Customer 6 for $16.523026853304472.
+Fred is cleaning the store.
+Fred is leaving the store for the day.
+Ginger arrives at the store on Day 17.
+ Consecutive days worked 1.
+Ginger is counting the money in the register.
+Money in the register: $2883.1877906928444
+Ginger is performing the inventory.
+Total value of items in the store: $1474.6116734812551
+No items found for class: Mandolin
+Ginger is opening the store.
+Ginger sold a Guitar to Customer 1 for $74.80743352593657 after a 10% discount.
+Customer 2 wanted to buy a Bandana but none were in inventory, so they left.
+Ginger sold a RecordPlayer to Customer 3 for $51.85249487820982.
+Ginger bought a very good condition used Shirt from Customer 4 for $38.64738890027077 after adding 10% to the offered price.
+Ginger sold a MP3Player to Customer 6 for $88.26319010764506.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Ginger arrives at the store on Day 18.
+ Consecutive days worked 2.
+Ginger is counting the money in the register.
+Money in the register: $3106.422846263073
+Ginger is performing the inventory.
+Total value of items in the store: $1321.6445977297005
+No items found for class: RecordPlayer
+Ginger is opening the store.
+Ginger bought a very good condition used Strings from Customer 1 for $17.00974362914781.
+Ginger bought a good condition used Hat from Customer 2 for $27.6777613464403 after adding 10% to the offered price.
+Ginger bought a very good condition new Guitar from Customer 3 for $20.39634434407101.
+Ginger bought a poor condition new RecordPlayer from Customer 4 for $52.9847394476253 after adding 10% to the offered price.
+Customer 5 wanted to buy a Mandolin but none were in inventory, so they left.
+Customer 6 wanted to buy a PracticeAmps but none were in inventory, so they left.
+Customer 7 wanted to buy a Bandana but none were in inventory, so they left.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Ginger arrives at the store on Day 19.
+ Consecutive days worked 3.
+Ginger is counting the money in the register.
+Money in the register: $3106.422846263073
+Ginger is performing the inventory.
+Total value of items in the store: $1543.1158660289848
+No items found for class: MP3Player
+Ginger is opening the store.
+Ginger bought a poor condition used RecordPlayer from Customer 1 for $33.76644332026455 after adding 10% to the offered price.
+Ginger bought a good condition used Mandolin from Customer 2 for $13.980542404557886 after adding 10% to the offered price.
+Ginger bought a very good condition used Vinyl from Customer 3 for $12.956636444240118 after adding 10% to the offered price.
+Ginger sold a Bass to Customer 7 for $90.54652666892945.
+Customer 10 wanted to buy a MP3Player but none were in inventory, so they left.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Fred arrives at the store on Day 20.
+ Consecutive days worked 1.
+Fred is counting the money in the register.
+Money in the register: $2004.2423945360845
+Fred is performing the inventory.
+Total value of items in the store: $1562.9395614856237
+No items found for class: MP3Player
+Fred is opening the store.
+Fred bought a poor condition used Bandana from Customer 1 for $30.170777980917027.
+Fred sold a PaperScore to Customer 2 for $95.56981981827768.
+Fred bought a fair condition used PracticeAmps from Customer 4 for $45.37921883575403 after adding 10% to the offered price.
+Fred sold a Harmonica to Customer 5 for $15.986493722697602.
+Fred sold a PaperScore to Customer 6 for $42.60237532482291 after a 10% discount.
+Fred sold a Shirt to Customer 7 for $70.26797981867412.
+Fred bought a very good condition new MP3Player from Customer 8 for $3.5558389998855993.
+Fred sold a Flute to Customer 9 for $4.6862482256071445.
+Fred is cleaning the store.
+Fred is leaving the store for the day.
+Fred arrives at the store on Day 21.
+ Consecutive days worked 2.
+Fred is counting the money in the register.
+Money in the register: $2238.0889087044775
+Fred is performing the inventory.
+Total value of items in the store: $1479.053951889298
+No items found for class: PaperScore
+Fred is opening the store.
+Fred sold a Strings to Customer 1 for $34.01948725829562.
+Fred sold a RecordPlayer to Customer 2 for $86.70230091429595 after a 10% discount.
+Customer 3 wanted to buy a Flute but none were in inventory, so they left.
+Customer 4 wanted to buy a PaperScore but none were in inventory, so they left.
+Fred bought a fair condition used Vinyl from Customer 5 for $16.247841427214976 after adding 10% to the offered price.
+Fred sold a Mandolin to Customer 6 for $25.419168008287063.
+Fred bought a good condition used Flute from Customer 7 for $26.301293056107752.
+Fred is cleaning the store.
+Fred is leaving the store for the day.
+Fred arrives at the store on Day 22.
+ Consecutive days worked 3.
+Fred is counting the money in the register.
+Money in the register: $2393.863453875834
+Fred is performing the inventory.
+Total value of items in the store: $1405.423522697821
+No items found for class: PaperScore
+Fred is opening the store.
+Customer 1 wanted to buy a Shirt but none were in inventory, so they left.
+Fred sold a Guitar to Customer 2 for $36.71341981932782 after a 10% discount.
+Fred sold a MP3Player to Customer 4 for $7.1116779997711985.
+Customer 5 wanted to buy a Guitar but none were in inventory, so they left.
+Fred bought a good condition used PaperScore from Customer 6 for $45.303379048921435 after adding 10% to the offered price.
+Fred is cleaning the store.
+Fred is leaving the store for the day.
+Ginger arrives at the store on Day 23.
+ Consecutive days worked 1.
+Ginger is counting the money in the register.
+Money in the register: $3196.9693729320024
+Ginger is performing the inventory.
+Total value of items in the store: $1439.8889360988558
+No items found for class: MP3Player
+Ginger is opening the store.
+Ginger sold a RecordPlayer to Customer 1 for $61.3935333095719.
+Customer 2 wanted to buy a Mandolin but none were in inventory, so they left.
+Ginger bought a good condition used Mandolin from Customer 3 for $8.191548420267413 after adding 10% to the offered price.
+Customer 5 wanted to buy a Guitar but none were in inventory, so they left.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Ginger arrives at the store on Day 24.
+ Consecutive days worked 2.
+Ginger is counting the money in the register.
+Money in the register: $3258.3629062415744
+Ginger is performing the inventory.
+Total value of items in the store: $1393.38912718977
+No items found for class: RecordPlayer
+Ginger is opening the store.
+Ginger bought a good condition new Flute from Customer 1 for $36.61127215125382.
+Ginger sold a PaperScore to Customer 2 for $82.36978008894806.
+Ginger bought a very good condition used RecordPlayer from Customer 3 for $44.98957300807239 after adding 10% to the offered price.
+Ginger sold a CD to Customer 4 for $92.5791242116343.
+Ginger sold a Bandana to Customer 5 for $54.30740036565065 after a 10% discount.
+Customer 6 wanted to buy a MP3Player but none were in inventory, so they left.
+Ginger bought a very good condition used Bass from Customer 7 for $48.76319989861657.
+Ginger bought a poor condition new Flute from Customer 8 for $24.82154899731828 after adding 10% to the offered price.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Ginger arrives at the store on Day 25.
+ Consecutive days worked 3.
+Ginger is counting the money in the register.
+Money in the register: $3493.653366503991
+Ginger is performing the inventory.
+Total value of items in the store: $1455.7769237641683
+No items found for class: PaperScore
+Ginger is opening the store.
+Customer 1 wanted to buy a Shirt but none were in inventory, so they left.
+Ginger bought a good condition new Harmonica from Customer 2 for $42.69213527034985.
+Ginger bought a excellent condition new Strings from Customer 3 for $36.726189911294405 after adding 10% to the offered price.
+Ginger bought a fair condition used Hat from Customer 4 for $51.50593755006762 after adding 10% to the offered price.
+Customer 5 wanted to buy a Guitar but none were in inventory, so they left.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Fred arrives at the store on Day 26.
+ Consecutive days worked 1.
+Fred is counting the money in the register.
+Money in the register: $2441.7678205637467
+Fred is performing the inventory.
+Total value of items in the store: $1701.583244234617
+No items found for class: PaperScore
+Fred is opening the store.
+Fred sold a CDPlayer to Customer 1 for $66.60354722317494 after a 10% discount.
+Fred bought a poor condition new Bass from Customer 2 for $45.32829942797835.
+Fred is cleaning the store.
+Fred accidentally damaged a Flute while cleaning. Its condition was lowered to poor and its list price was reduced to $36.104071268826594.
+Fred is leaving the store for the day.
+Ginger arrives at the store on Day 27.
+ Consecutive days worked 1.
+Ginger is counting the money in the register.
+Money in the register: $3493.653366503991
+Ginger is performing the inventory.
+Total value of items in the store: $1709.209883914284
+No items found for class: PaperScore
+Ginger is opening the store.
+Ginger bought a excellent condition new CD from Customer 1 for $24.110706817988696.
+Ginger sold a Strings to Customer 2 for $60.0974016730272 after a 10% discount.
+Ginger bought a fair condition used Bandana from Customer 3 for $10.684893476992112 after adding 10% to the offered price.
+Ginger sold a RecordPlayer to Customer 4 for $81.7992236510407.
+Customer 7 wanted to buy a RecordPlayer but none were in inventory, so they left.
+Customer 10 wanted to buy a Guitar but none were in inventory, so they left.
+Ginger is cleaning the store.
+Ginger is leaving the store for the day.
+Fred arrives at the store on Day 28.
+ Consecutive days worked 1.
+Fred is counting the money in the register.
+Money in the register: $2515.77176192283
+Fred is performing the inventory.
+Total value of items in the store: $1628.2842622004894
+No items found for class: PaperScore
+Fred is opening the store.
+Fred bought a very good condition used Harmonica from Customer 1 for $33.89321967675358.
+Customer 2 wanted to buy a Strings but none were in inventory, so they left.
+Fred bought a very good condition used PracticeAmps from Customer 3 for $34.05824351868539.
+Customer 4 wanted to buy a MP3Player but none were in inventory, so they left.
+Customer 6 wanted to buy a MP3Player but none were in inventory, so they left.
+Fred is cleaning the store.
+Fred accidentally damaged a Vinyl while cleaning. Its condition was lowered to very good and its list price was reduced to $18.846016646167442.
+Fred is leaving the store for the day.
+Fred arrives at the store on Day 29.
+ Consecutive days worked 2.
+Fred is counting the money in the register.
+Money in the register: $2515.77176192283
+Fred is performing the inventory.
+Total value of items in the store: $1759.4756844298252
+No items found for class: PaperScore
+Fred is opening the store.
+Fred sold a PracticeAmps to Customer 1 for $74.25690354941568 after a 10% discount.
+Fred bought a fair condition used CD from Customer 2 for $54.299233815353894 after adding 10% to the offered price.
+Fred sold a Cables to Customer 3 for $97.63804226829402.
+Fred bought a poor condition used Strings from Customer 4 for $38.549368763401226.
+Fred bought a good condition used Mandolin from Customer 5 for $35.74588440067948.
+Fred sold a Harmonica to Customer 8 for $76.84584348662973 after a 10% discount.
+Fred sold a Hat to Customer 10 for $4.901611829542879 after a 10% discount.
+Customer 11 wanted to buy a MP3Player but none were in inventory, so they left.
+Fred is cleaning the store.
+Fred is leaving the store for the day.
+Fred arrives at the store on Day 30.
+ Consecutive days worked 3.
+Fred is counting the money in the register.
+Money in the register: $2786.7479807084446
+Fred is performing the inventory.
+Total value of items in the store: $1735.8158516366523
+No items found for class: PaperScore
+Fred is opening the store.
+Fred bought a poor condition new Bandana from Customer 1 for $42.25757592790778.
+Customer 2 wanted to buy a Shirt but none were in inventory, so they left.
+Fred sold a CD to Customer 3 for $54.34371402854804 after a 10% discount.
+Fred sold a Harmonica to Customer 4 for $67.78643935350716.
+Fred bought a very good condition used MP3Player from Customer 5 for $13.518969856100323 after adding 10% to the offered price.
+Customer 6 wanted to buy a Harmonica but none were in inventory, so they left.
+Customer 7 wanted to buy a Cables but none were in inventory, so they left.
+Fred bought a fair condition used Cables from Customer 8 for $37.42566366552015.
+Fred sold a Vinyl to Customer 9 for $53.15071098234238.
+Fred bought a poor condition new Strings from Customer 10 for $41.89048057964784 after adding 10% to the offered price.
+Fred is cleaning the store.
+Fred is leaving the store for the day.
+
+Process finished with exit code 0
